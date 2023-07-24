@@ -1,0 +1,15 @@
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/bin/Debug/net7.0/SectionA
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/bin/Debug/net7.0/SectionA.deps.json
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/bin/Debug/net7.0/SectionA.runtimeconfig.json
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/bin/Debug/net7.0/SectionA.dll
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/bin/Debug/net7.0/SectionA.pdb
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.csproj.AssemblyReference.cache
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.AssemblyInfoInputs.cache
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.AssemblyInfo.cs
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.csproj.CoreCompileInputs.cache
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.dll
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/refint/SectionA.dll
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.pdb
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/SectionA.genruntimeconfig.cache
+/Users/jasfertoh/Desktop/ASN2_Student_Resource/SectionA/obj/Debug/net7.0/ref/SectionA.dll
